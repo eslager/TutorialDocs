@@ -7,7 +7,7 @@
 
 **1.1. First, recreate your .geojson file as a .js file containing a var to hold the geojson data**
 
-*Note: this method for adding geojson data to a Leaflet map is (rather poorly) explained [here](https://leafletjs.com/examples/geojson/), and used in [this tutorial](https://leafletjs.com/examples/choropleth/) from Fall Quarter Lab 3b. This method only works if you are using geojson data that you can edit, **not** live data from a data feed, like the USGS earthquake data we used in Lab 2 in Fall Quarter.* 
+*Note: this method for adding geojson data to a Leaflet map is (rather poorly) explained [here](https://leafletjs.com/examples/geojson/), and used in [this tutorial](https://leafletjs.com/examples/choropleth/) referenced in Fall Quarter Lab 3b. This method only works if you are using geojson data that you can edit, **not** live data from a data feed, like the USGS earthquake data we used in Lab 2 in Fall Quarter.* 
 
 1. Open your `Sea_Parcel.geojson` file
 
