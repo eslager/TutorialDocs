@@ -28,7 +28,7 @@ var parcels =
 
 ---
 
-**1.2. Second, add a link to the newly created JS files in the body of your main HTML file (double.html in your case) **
+**1.2. Second, add a link to the newly created JS files in the body of your main HTML file (double.html in your case)**
 
 1. Under the line of code where you create your map div, add the following: 
 
