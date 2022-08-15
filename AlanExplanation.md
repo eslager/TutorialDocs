@@ -78,7 +78,7 @@ var parcels =
 
 ---
 
-**2.1**. Use the `bringToFront()` method to specify which layer you want to display on top. 
+**2.1. Use the `bringToFront()` method to specify which layer you want to display on top.** 
 
 Once we have the layers defined as variables that we can reference later in the code, it's quite easy to order them. We talked earlier about doing so with a [layer control](https://leafletjs.com/examples/layers-control/), which includes an [auto Z-indexing option](https://leafletjs.com/reference.html#control-layers-autozindex) by default. However, I discovered an even easier way that uses just one line of code. 
 
